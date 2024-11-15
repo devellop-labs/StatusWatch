@@ -1,109 +1,142 @@
 <div align="center">
 
-# StatusWatch
+![Pasted Graphic](https://github.com/user-attachments/assets/cd86bb7b-e586-4b19-a684-ca0809c577d9)
 
-<img src="https://cdn.jsdelivr.net/npm/heroicons/24/outline/chart-bar.svg" width="120" alt="StatusWatch Logo" style="stroke: #3b82f6;" />
+<h1>🔍 StatusWatch</h1>
 
 <p align="center">
-  <strong>실시간 웹사이트 모니터링 대시보드</strong><br>
-  웹사이트의 가동시간, 응답 시간, SSL 인증서 상태를 손쉽게 모니터링하세요
+  <a href="README.md"><img src="https://img.shields.io/badge/EN-English-2563eb.svg?style=for-the-badge" alt="English"/></a>
+  <a href="README_KR.md"><img src="https://img.shields.io/badge/KR-한국어-ff4b4b.svg?style=for-the-badge" alt="Korean"/></a>
+</p>
+
+<h3>실시간 웹사이트 모니터링 대시보드</h3>
+<p>웹사이트의 가동시간, 응답시간, SSL 인증서를 즉각적인 알림과 함께 모니터링하세요.</p>
+
+<p align="center">
+  <a href="#-주요-기능"><img src="https://img.shields.io/badge/주요_기능-기능_목록-2563eb?style=for-the-badge&logoColor=white" /></a>
+  <a href="#-미리보기"><img src="https://img.shields.io/badge/미리보기-스크린샷-2563eb?style=for-the-badge&logoColor=white" /></a>
+  <a href="#%EF%B8%8F-기술-스택"><img src="https://img.shields.io/badge/기술-스택-2563eb?style=for-the-badge&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/EN-English-blue?style=flat-square" alt="English" />
-  </a>
-  &nbsp;
-  <a href="README_KR.md">
-    <img src="https://img.shields.io/badge/KR-한국어-red?style=flat-square" alt="Korean" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="#-주요-기능">주요 기능</a> •
-  <a href="#-미리보기">미리보기</a> •
-  <a href="#-기술-스택">기술 스택</a> •
-  <a href="#-시작하기">시작하기</a> •
-  <a href="#-사용법">사용법</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/license/yourusername/statuswatch?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/yourusername/statuswatch?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/yourusername/statuswatch?style=flat-square" />
+  <a href="#"><img src="https://img.shields.io/github/package-json/v/yourusername/statuswatch?style=flat-square&color=2563eb&label=버전" alt="버전" /></a>
+  <a href="#"><img src="https://img.shields.io/github/license/yourusername/statuswatch?style=flat-square&color=2563eb" alt="라이선스" /></a>
+  <a href="#"><img src="https://img.shields.io/github/stars/yourusername/statuswatch?style=flat-square&color=2563eb" alt="별" /></a>
+  <a href="#"><img src="https://img.shields.io/github/last-commit/yourusername/statuswatch?style=flat-square&color=2563eb" alt="최근 커밋" /></a>
 </p>
 
 </div>
+
+<div style="padding: 20px 0"></div>
 
 ## ✨ 주요 기능
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/40e4e5ca-bbd0-4c6b-8a51-049df3154680" alt="StatusWatch Features" width="100%" style="border-radius: 8px; margin: 20px 0;" />
+<img src="https://github.com/user-attachments/assets/40e4e5ca-bbd0-4c6b-8a51-049df3154680" alt="StatusWatch 개요" width="100%" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>
-
-### ⚡ 실시간 모니터링
-- **자동 체크** - 30초마다 자동으로 상태 확인
-- **응답 시간 추적** - 밀리초 단위의 정확한 응답 시간 측정
-- **가동률 계산** - 실시간 가동률 통계 제공
-
-### 🔒 SSL 인증서 모니터링
-- **상세 정보 제공** - 인증서 세부 정보 실시간 확인
-- **만료 알림** - 인증서 만료 사전 알림 기능
-- **발급자 검증** - 인증 기관 정보 확인
-
-### 📊 성능 분석
-- **응답 시간 그래프** - 시각적 성능 분석
-- **이력 데이터** - 과거 데이터 추적 관리
-- **통계 분석** - 종합적인 성능 지표 제공
-
-### 🚨 상태 알림
-- **시각적 표시** - 직관적인 상태 표시등
-- **성능 저하 감지** - 자동 성능 저하 감지
-- **다운타임 추적** - 정확한 다운타임 기록
-
-## 🖥️ 미리보기
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/40e4e5ca-bbd0-4c6b-8a51-049df3154680" alt="Dashboard Preview" width="100%" style="border-radius: 8px;" />
+  <table border="0" style="border: none;">
+    <tr>
+      <td width="25%" align="center">
+        <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/timer-fill.svg" width="48" style="fill: #2563eb"/>
+        <br>
+        <h3>⚡ 실시간 모니터링</h3>
+        <p align="center">
+          • 30초 주기 점검<br>
+          • 응답시간 추적<br>
+          • 가동시간 계산
+        </p>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-check-fill.svg" width="48" style="fill: #2563eb"/>
+        <br>
+        <h3>🔒 SSL 인증서</h3>
+        <p align="center">
+          • 인증서 정보<br>
+          • 만료 알림<br>
+          • 발급자 검증
+        </p>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-line-up-fill.svg" width="48" style="fill: #2563eb"/>
+        <br>
+        <h3>📊 분석</h3>
+        <p align="center">
+          • 응답시간 그래프<br>
+          • 이력 데이터<br>
+          • 가동률 통계
+        </p>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-ringing-fill.svg" width="48" style="fill: #2563eb"/>
+        <br>
+        <h3>🚨 알림</h3>
+        <p align="center">
+          • 시각적 표시<br>
+          • 성능 알림<br>
+          • 다운타임 추적
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<div style="padding: 20px 0"></div>
 
 ## 🛠️ 기술 스택
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <a href="https://reactjs.org">
-          <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+          <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
+          <br>
+          <span><strong>React 18</strong></span>
+          <br>
+          <img src="https://img.shields.io/badge/v18.0.0-2563eb?style=flat-square"/>
         </a>
-        <br>React 18
       </td>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <a href="https://www.typescriptlang.org">
-          <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+          <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/>
+          <br>
+          <span><strong>TypeScript</strong></span>
+          <br>
+          <img src="https://img.shields.io/badge/v5.0.0-2563eb?style=flat-square"/>
         </a>
-        <br>TypeScript
       </td>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <a href="https://tailwindcss.com">
-          <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+          <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/>
+          <br>
+          <span><strong>Tailwind</strong></span>
+          <br>
+          <img src="https://img.shields.io/badge/v3.0.0-2563eb?style=flat-square"/>
         </a>
-        <br>Tailwind
       </td>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <a href="https://vitejs.dev">
-          <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+          <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite"/>
+          <br>
+          <span><strong>Vite</strong></span>
+          <br>
+          <img src="https://img.shields.io/badge/v4.0.0-2563eb?style=flat-square"/>
         </a>
-        <br>Vite
       </td>
     </tr>
   </table>
 </div>
 
+<div style="padding: 20px 0"></div>
+
 ## 🚀 시작하기
 
+<div align="center">
+
 ```bash
-# 저장소 클론
+# 저장소 복제
 git clone https://github.com/yourusername/statuswatch.git
 
 # 디렉토리 이동
@@ -112,70 +145,133 @@ cd statuswatch
 # 의존성 설치
 npm install
 
-# 개발 서버 실행
+# 개발 서버 시작
 npm run dev
 
 # 프로덕션 빌드
 npm run build
 ```
 
+</div>
+
+<div style="padding: 20px 0"></div>
+
 ## 📱 사용법
 
-<div class="usage-grid" align="center">
+<div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/npm/heroicons/24/solid/plus-circle.svg" width="48" style="stroke: #3b82f6; fill: #3b82f6;"/>
-        <br/><strong>웹사이트 추가</strong>
-        <br/>Add Website 버튼 클릭
+        <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plus-circle-fill.svg" width="48" style="fill: #2563eb"/>
+        <br>
+        <h3>1️⃣ 웹사이트 추가</h3>
+        <p>"웹사이트 추가" 버튼을<br>클릭하여 모니터링 시작</p>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/npm/heroicons/24/solid/computer-desktop.svg" width="48" style="stroke: #3b82f6; fill: #3b82f6;"/>
-        <br/><strong>실시간 모니터링</strong>
-        <br/>대시보드에서 상태 확인
+        <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/desktop-fill.svg" width="48" style="fill: #2563eb"/>
+        <br>
+        <h3>2️⃣ 모니터링</h3>
+        <p>대시보드에서<br>실시간 업데이트 확인</p>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/npm/heroicons/24/solid/chart-bar.svg" width="48" style="stroke: #3b82f6; fill: #3b82f6;"/>
-        <br/><strong>상세 정보</strong>
-        <br/>세부 정보 분석
+        <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-line-up-fill.svg" width="48" style="fill: #2563eb"/>
+        <br>
+        <h3>3️⃣ 분석</h3>
+        <p>상세 지표와<br>성능 데이터 확인</p>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/npm/heroicons/24/solid/shield-check.svg" width="48" style="stroke: #3b82f6; fill: #3b82f6;"/>
-        <br/><strong>SSL 관리</strong>
-        <br/>인증서 상태 확인
+        <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-check-fill.svg" width="48" style="fill: #2563eb"/>
+        <br>
+        <h3>4️⃣ 보안</h3>
+        <p>SSL 인증서와<br>보안 상태 모니터링</p>
       </td>
     </tr>
   </table>
 </div>
 
+<div style="padding: 20px 0"></div>
+
 ## ⚙️ 설정
 
-기본 모니터링 주기는 30초로 설정되어 있습니다. `src/hooks/useMonitoring.ts` 파일에서 변경 가능합니다:
+모니터링 주기는 `src/hooks/useMonitoring.ts`에서 설정 가능합니다:
 
 ```typescript
-const CHECK_INTERVAL = 30000; // 30초
+const CHECK_INTERVAL = 30000; // 기본값 30초
 ```
+
+<div style="padding: 20px 0"></div>
 
 ## 🤝 기여하기
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m '새로운 기능 추가'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+<div align="center">
+
+<img width="300" src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/git-pull-request-fill.svg" style="fill: #2563eb"/>
+
+1. 저장소 **Fork**
+2. **기능 브랜치** 생성: `git checkout -b feature/amazing-feature`
+3. 변경사항 **커밋**: `git commit -m '새로운 기능 추가'`
+4. 브랜치에 **푸시**: `git push origin feature/amazing-feature`
+5. **Pull Request** 생성
+
+</div>
+
+<div style="padding: 20px 0"></div>
 
 ## 📄 라이선스
 
-이 프로젝트는 MIT 라이선스를 따릅니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참고하세요.
+<div align="center">
+  <img width="150" src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/certificate-fill.svg" style="fill: #2563eb"/>
+  <p>이 프로젝트는 <strong>MIT 라이선스</strong> 하에 제공됩니다</p>
+  <p>자세한 내용은 <a href="LICENSE">LICENSE</a> 파일을 참조하세요</p>
+</div>
+
+<div style="padding: 20px 0"></div>
+
+## 🙏 감사의 말
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=react" width="40"/>
+        <br>
+        <strong>React 커뮤니티</strong>
+        <br>
+        <img src="https://img.shields.io/badge/감사합니다-2563eb?style=flat-square"/>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40"/>
+        <br>
+        <strong>Tailwind Labs</strong>
+        <br>
+        <img src="https://img.shields.io/badge/감사합니다-2563eb?style=flat-square"/>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=vite" width="40"/>
+        <br>
+        <strong>Vite 팀</strong>
+        <br>
+        <img src="https://img.shields.io/badge/감사합니다-2563eb?style=flat-square"/>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=ts" width="40"/>
+        <br>
+        <strong>TypeScript 팀</strong>
+        <br>
+        <img src="https://img.shields.io/badge/감사합니다-2563eb?style=flat-square"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="padding: 20px 0"></div>
 
 ## 👨‍💻 제작자
 
 <div align="center">
-  <img src="https://github.com/yourusername.png" width="100" style="border-radius: 50%"/>
-  <br/>
-  <strong>Your Name</strong>
-  <br/>
-  <a href="https://github.com/yourusername">@yourusername</a>
+  <img src="https://github.com/sioaeko.png" width="100" style="border-radius: 50%"/>
+  <h3>Your Name</h3>
+  <a href="https://github.com/sioaeko">@sioaeko</a>
   <br/><br/>
   <a href="https://twitter.com/yourusername">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -186,16 +282,27 @@ const CHECK_INTERVAL = 30000; // 30초
   </a>
 </div>
 
+<div style="padding: 20px 0"></div>
+
 <div align="center">
 
 ## ⭐ 지원하기
 
-이 프로젝트가 도움이 되었다면 ⭐️를 눌러주세요!
+이 프로젝트가 도움이 되었다면 별표를 눌러주세요!
+
+<a href="#">
+  <img src="https://img.shields.io/badge/-GitHub에서_별표_주기-2563eb?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
+
+<div style="padding: 20px 0"></div>
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/yourusername">Your Name</a></sub>
+  <br>
+  <p>
+    <sub><a href="https://github.com/sioaeko">sioaeko</a>이(가) ❤️를 담아 제작했습니다</sub>
+  </p>
 </div>
