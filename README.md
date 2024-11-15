@@ -35,7 +35,7 @@
 ## ✨ Features
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/40e4e5ca-bbd0-4c6b-8a51-049df3154680" alt="StatusWatch Overview" width="100%" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+<img src="https://s11.gifyu.com/images/SyoTJ.md.gif" alt="StatusWatch Overview" width="100%" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>
 
 <div align="center">
