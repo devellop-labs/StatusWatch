@@ -28,6 +28,10 @@
   <a href="#"><img src="https://img.shields.io/github/last-commit/sioaeko/statuswatch?style=flat-square&color=2563eb" alt="Last Commit" /></a>
 </p>
 
+<h3>🚀 Deploy this project easily through Vercel! 🚀</h3>
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsioaeko%2FStatusWatch)
+
 </div>
 
 <div style="padding: 20px 0"></div>
