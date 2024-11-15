@@ -9,6 +9,8 @@
   <a href="README_KR.md"><img src="https://img.shields.io/badge/KR-한국어-ff4b4b.svg?style=for-the-badge" alt="Korean"/></a>
 </p>
 
+![Screenshot 2024-11-15 at 4 08 14 PM](https://github.com/user-attachments/assets/adf5cab5-3aa6-4158-ac31-fd02676348c5)
+
 <h3>실시간 웹사이트 모니터링 대시보드</h3>
 <p>웹사이트의 가동시간, 응답시간, SSL 인증서를 즉각적인 알림과 함께 모니터링하세요.</p>
 
