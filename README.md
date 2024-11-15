@@ -10,6 +10,8 @@
   <a href="README_KR.md"><img src="https://img.shields.io/badge/KR-한국어-ff4b4b.svg?style=for-the-badge" alt="Korean"/></a>
 </p>
 
+![Screenshot 2024-11-15 at 4 08 14 PM](https://github.com/user-attachments/assets/c3f367ed-1d4c-416a-8cb1-563c304a3130)
+
 <h3>Real-time Website Monitoring Dashboard</h3>
 <p>Monitor website uptime, response time, and SSL certificates with instant alerts.</p>
 
