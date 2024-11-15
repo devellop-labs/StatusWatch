@@ -21,11 +21,15 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/github/package-json/v/yourusername/statuswatch?style=flat-square&color=2563eb&label=버전" alt="버전" /></a>
-  <a href="#"><img src="https://img.shields.io/github/license/yourusername/statuswatch?style=flat-square&color=2563eb" alt="라이선스" /></a>
-  <a href="#"><img src="https://img.shields.io/github/stars/yourusername/statuswatch?style=flat-square&color=2563eb" alt="별" /></a>
-  <a href="#"><img src="https://img.shields.io/github/last-commit/yourusername/statuswatch?style=flat-square&color=2563eb" alt="최근 커밋" /></a>
+  <a href="#"><img src="https://img.shields.io/github/package-json/v/sioaeko/statuswatch?style=flat-square&color=2563eb&label=버전" alt="버전" /></a>
+  <a href="#"><img src="https://img.shields.io/github/license/sioaeko/statuswatch?style=flat-square&color=2563eb" alt="라이선스" /></a>
+  <a href="#"><img src="https://img.shields.io/github/stars/sioaeko/statuswatch?style=flat-square&color=2563eb" alt="별" /></a>
+  <a href="#"><img src="https://img.shields.io/github/last-commit/sioaeko/statuswatch?style=flat-square&color=2563eb" alt="최근 커밋" /></a>
 </p>
+
+<h3>🚀 Vercel를 통해서 손쉽게 프로젝트를 배포해보세요!🚀</h3>
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsioaeko%2FStatusWatch)
 
 </div>
 
@@ -139,7 +143,7 @@
 
 ```bash
 # 저장소 복제
-git clone https://github.com/yourusername/statuswatch.git
+git clone https://github.com/sioaeko/statuswatch.git
 
 # 디렉토리 이동
 cd statuswatch
@@ -154,6 +158,12 @@ npm run dev
 npm run build
 ```
 
+</div>
+
+<div align="center">
+<h3>🚀 로컬이 아닌 Vercel를 통해서 손쉽게 프로젝트를 배포해보세요!🚀</h3>
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsioaeko%2FStatusWatch)
 </div>
 
 <div style="padding: 20px 0"></div>
