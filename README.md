@@ -1,201 +1,311 @@
-# StatusWatch
-
 <div align="center">
 
-[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
-[![한국어](https://img.shields.io/badge/lang-한국어-red.svg)](README_KR.md)
+![Pasted Graphic](https://github.com/user-attachments/assets/cd86bb7b-e586-4b19-a684-ca0809c577d9)
 
-<br>
 
-<img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/activity.svg" width="120" alt="StatusWatch Logo" />
-
-<h1>StatusWatch</h1>
+<h1>🔍 StatusWatch</h1>
 
 <p align="center">
-  <strong>Real-time Website Monitoring Dashboard</strong>
-  <br>
-  <span>Monitor your websites' uptime, response time, and SSL certificate status with ease.</span>
+  <a href="README.md"><img src="https://img.shields.io/badge/EN-English-2563eb.svg?style=for-the-badge" alt="English"/></a>
+  <a href="README_KR.md"><img src="https://img.shields.io/badge/KR-한국어-ff4b4b.svg?style=for-the-badge" alt="Korean"/></a>
+</p>
+
+<h3>Real-time Website Monitoring Dashboard</h3>
+<p>Monitor website uptime, response time, and SSL certificates with instant alerts.</p>
+
+<p align="center">
+  <a href="#-features"><img src="https://img.shields.io/badge/FEATURES-Feature_Set-2563eb?style=for-the-badge&logoColor=white" /></a>
+  <a href="#-preview"><img src="https://img.shields.io/badge/PREVIEW-Screenshots-2563eb?style=for-the-badge&logoColor=white" /></a>
+  <a href="#%EF%B8%8F-tech-stack"><img src="https://img.shields.io/badge/TECH-Stack-2563eb?style=for-the-badge&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <a href="#features">Features</a> •
-  <a href="#preview">Preview</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#getting-started">Getting Started</a> •
-  <a href="#usage">Usage</a>
+  <a href="#"><img src="https://img.shields.io/github/package-json/v/yourusername/statuswatch?style=flat-square&color=2563eb&label=Version" alt="Version" /></a>
+  <a href="#"><img src="https://img.shields.io/github/license/yourusername/statuswatch?style=flat-square&color=2563eb" alt="License" /></a>
+  <a href="#"><img src="https://img.shields.io/github/stars/yourusername/statuswatch?style=flat-square&color=2563eb" alt="Stars" /></a>
+  <a href="#"><img src="https://img.shields.io/github/last-commit/yourusername/statuswatch?style=flat-square&color=2563eb" alt="Last Commit" /></a>
 </p>
-
-[![GitHub license](https://img.shields.io/github/license/yourusername/statuswatch)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/statuswatch)](https://github.com/yourusername/statuswatch/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/statuswatch)](https://github.com/yourusername/statuswatch/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/statuswatch)](https://github.com/yourusername/statuswatch/pulls)
 
 </div>
+
+<div style="padding: 20px 0"></div>
 
 ## ✨ Features
 
 <div align="center">
-  <table>
+<img src="https://github.com/user-attachments/assets/40e4e5ca-bbd0-4c6b-8a51-049df3154680" alt="StatusWatch Overview" width="100%" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+</div>
+
+<div align="center">
+  <table border="0" style="border: none;">
     <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/activity.svg" width="40" alt="Monitoring Icon"/><br>
-        <b>Real-time Monitoring</b>
+      <td width="25%" align="center">
+        <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/timer-fill.svg" width="48" style="fill: #2563eb"/>
         <br>
-        • 30-second checks<br>
-        • Response tracking<br>
-        • Uptime calculation
+        <h3>⚡ Real-time Monitoring</h3>
+        <p align="center">
+          • 30-second checks<br>
+          • Response tracking<br>
+          • Uptime calculation
+        </p>
       </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/shield-check.svg" width="40" alt="SSL Icon"/><br>
-        <b>SSL Certificate Monitoring</b>
+      <td width="25%" align="center">
+        <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-check-fill.svg" width="48" style="fill: #2563eb"/>
         <br>
-        • Certificate info<br>
-        • Expiration alerts<br>
-        • Issuer verification
+        <h3>🔒 SSL Certificate</h3>
+        <p align="center">
+          • Certificate info<br>
+          • Expiration alerts<br>
+          • Issuer verification
+        </p>
       </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/line-chart.svg" width="40" alt="Analytics Icon"/><br>
-        <b>Performance Analytics</b>
+      <td width="25%" align="center">
+        <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-line-up-fill.svg" width="48" style="fill: #2563eb"/>
         <br>
-        • Response graphs<br>
-        • Historical data<br>
-        • Uptime statistics
+        <h3>📊 Analytics</h3>
+        <p align="center">
+          • Response graphs<br>
+          • Historical data<br>
+          • Uptime statistics
+        </p>
       </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/bell.svg" width="40" alt="Alerts Icon"/><br>
-        <b>Status Alerts</b>
+      <td width="25%" align="center">
+        <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-ringing-fill.svg" width="48" style="fill: #2563eb"/>
         <br>
-        • Visual indicators<br>
-        • Performance alerts<br>
-        • Downtime tracking
+        <h3>🚨 Alerts</h3>
+        <p align="center">
+          • Visual indicators<br>
+          • Performance alerts<br>
+          • Downtime tracking
+        </p>
       </td>
     </tr>
   </table>
 </div>
 
-## 🖼️ Preview
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/40e4e5ca-bbd0-4c6b-8a51-049df3154680" alt="StatusWatch Dashboard" width="100%"/>
-</div>
+<div style="padding: 20px 0"></div>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-[![React](https://img.shields.io/badge/React_18-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Recharts](https://img.shields.io/badge/Recharts-%23FF6384.svg?style=for-the-badge)](https://recharts.org/)
-
-</div>
-
-## 🚀 Getting Started
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/yourusername/statuswatch.git
-```
-
-2. **Install dependencies:**
-```bash
-cd statuswatch
-npm install
-```
-
-3. **Start the development server:**
-```bash
-npm run dev
-```
-
-4. **Build for production:**
-```bash
-npm run build
-```
-
-## 📖 Usage
-
-<div align="center">
   <table>
     <tr>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/plus-circle.svg" width="30"/><br>
-        <b>1. Add Website</b><br>
-        Click "Add Website" button
+      <td align="center" width="120">
+        <a href="https://reactjs.org">
+          <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
+          <br>
+          <span><strong>React 18</strong></span>
+          <br>
+          <img src="https://img.shields.io/badge/v18.0.0-2563eb?style=flat-square"/>
+        </a>
       </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/monitor.svg" width="30"/><br>
-        <b>2. Monitor</b><br>
-        View real-time updates
+      <td align="center" width="120">
+        <a href="https://www.typescriptlang.org">
+          <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/>
+          <br>
+          <span><strong>TypeScript</strong></span>
+          <br>
+          <img src="https://img.shields.io/badge/v5.0.0-2563eb?style=flat-square"/>
+        </a>
       </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/eye.svg" width="30"/><br>
-        <b>3. View Details</b><br>
-        Check in-depth info
+      <td align="center" width="120">
+        <a href="https://tailwindcss.com">
+          <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/>
+          <br>
+          <span><strong>Tailwind</strong></span>
+          <br>
+          <img src="https://img.shields.io/badge/v3.0.0-2563eb?style=flat-square"/>
+        </a>
       </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/shield.svg" width="30"/><br>
-        <b>4. SSL Status</b><br>
-        Monitor certificates
+      <td align="center" width="120">
+        <a href="https://vitejs.dev">
+          <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite"/>
+          <br>
+          <span><strong>Vite</strong></span>
+          <br>
+          <img src="https://img.shields.io/badge/v4.0.0-2563eb?style=flat-square"/>
+        </a>
       </td>
     </tr>
   </table>
 </div>
 
+<div style="padding: 20px 0"></div>
+
+## 🚀 Getting Started
+
+<div align="center">
+
+```bash
+# Clone repo
+git clone https://github.com/yourusername/statuswatch.git
+
+# Navigate to directory
+cd statuswatch
+
+# Install dependencies
+npm install
+
+# Start dev server
+npm run dev
+
+# Build for production
+npm run build
+```
+
+</div>
+
+<div style="padding: 20px 0"></div>
+
+## 📱 Usage
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plus-circle-fill.svg" width="48" style="fill: #2563eb"/>
+        <br>
+        <h3>1️⃣ Add Website</h3>
+        <p>Click "Add Website" button<br>to start monitoring</p>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/desktop-fill.svg" width="48" style="fill: #2563eb"/>
+        <br>
+        <h3>2️⃣ Monitor</h3>
+        <p>View real-time updates<br>in the dashboard</p>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-line-up-fill.svg" width="48" style="fill: #2563eb"/>
+        <br>
+        <h3>3️⃣ Analyze</h3>
+        <p>Check detailed metrics<br>and performance data</p>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-check-fill.svg" width="48" style="fill: #2563eb"/>
+        <br>
+        <h3>4️⃣ Secure</h3>
+        <p>Monitor SSL certificates<br>and security status</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="padding: 20px 0"></div>
+
 ## ⚙️ Configuration
 
-The monitoring interval is set to 30 seconds by default. You can modify this in `src/hooks/useMonitoring.ts`:
+Monitoring interval is configurable in `src/hooks/useMonitoring.ts`:
 
 ```typescript
-const CHECK_INTERVAL = 30000; // 30 seconds
+const CHECK_INTERVAL = 30000; // 30 seconds by default
 ```
+
+<div style="padding: 20px 0"></div>
 
 ## 🤝 Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+<div align="center">
+
+<img width="300" src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/git-pull-request-fill.svg" style="fill: #2563eb"/>
+
+1. **Fork** the repository
+2. Create a **feature branch**: `git checkout -b feature/amazing-feature`
+3. **Commit** changes: `git commit -m 'Add amazing feature'`
+4. **Push** to branch: `git push origin feature/amazing-feature`
+5. Open a **Pull Request**
+
+</div>
+
+<div style="padding: 20px 0"></div>
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<div align="center">
+  <img width="150" src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/certificate-fill.svg" style="fill: #2563eb"/>
+  <p>This project is licensed under the <strong>MIT License</strong></p>
+  <p>See the <a href="LICENSE">LICENSE</a> file for details</p>
+</div>
+
+<div style="padding: 20px 0"></div>
 
 ## 🙏 Acknowledgments
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <a href="https://lucide.dev/"><img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/logo/logo.svg" width="40"/><br><b>Lucide Icons</b></a>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=react" width="40"/>
+        <br>
+        <strong>React Community</strong>
+        <br>
+        <img src="https://img.shields.io/badge/Thank_You-2563eb?style=flat-square"/>
       </td>
-      <td align="center">
-        <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-dark.svg" width="40"/><br><b>Tailwind CSS</b></a>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40"/>
+        <br>
+        <strong>Tailwind Labs</strong>
+        <br>
+        <img src="https://img.shields.io/badge/Thank_You-2563eb?style=flat-square"/>
       </td>
-      <td align="center">
-        <a href="https://recharts.org/"><img src="https://raw.githubusercontent.com/recharts/recharts/master/logo.png" width="40"/><br><b>Recharts</b></a>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=vite" width="40"/>
+        <br>
+        <strong>Vite Team</strong>
+        <br>
+        <img src="https://img.shields.io/badge/Thank_You-2563eb?style=flat-square"/>
       </td>
-      <td align="center">
-        <a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo.svg" width="40"/><br><b>Vite</b></a>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=ts" width="40"/>
+        <br>
+        <strong>TypeScript Team</strong>
+        <br>
+        <img src="https://img.shields.io/badge/Thank_You-2563eb?style=flat-square"/>
       </td>
     </tr>
   </table>
 </div>
 
+<div style="padding: 20px 0"></div>
+
 ## 👨‍💻 Author
 
 <div align="center">
-  <img src="https://github.com/yourusername.png" width="100" style="border-radius: 50%"/><br>
-  <b>Your Name</b><br>
+  <img src="https://github.com/yourusername.png" width="100" style="border-radius: 50%"/>
+  <h3>Your Name</h3>
   <a href="https://github.com/yourusername">@yourusername</a>
+  <br/><br/>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
+
+<div style="padding: 20px 0"></div>
 
 <div align="center">
 
 ## ⭐ Support
 
-If you found this project helpful, please give it a ⭐️!
+If you found this project helpful, please consider giving it a star!
 
+<a href="#">
+  <img src="https://img.shields.io/badge/-Star_on_GitHub-2563eb?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<div style="padding: 20px 0"></div>
+
+---
+
+<div align="center">
+  <br>
+  <p>
+    <sub>Built with ❤️ by <a href="https://github.com/yourusername">Your Name</a></sub>
+    <br>
+    <sub>Powered by ☕️ and code</sub>
+  </p>
 </div>
