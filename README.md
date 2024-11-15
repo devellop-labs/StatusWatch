@@ -279,7 +279,7 @@ const CHECK_INTERVAL = 30000; // 30 seconds by default
 
 <div align="center">
   <img src="https://github.com/sioaeko.png" width="100" style="border-radius: 50%"/>
-  <h3>Your Name</h3>
+  <h3>Developer</h3>
   <a href="https://github.com/sioaeko">@sioaeko</a>
   <br/><br/>
   <a href="https://twitter.com/yourusername">
