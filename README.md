@@ -270,9 +270,9 @@ const CHECK_INTERVAL = 30000; // 30 seconds by default
 ## 👨‍💻 Author
 
 <div align="center">
-  <img src="https://github.com/yourusername.png" width="100" style="border-radius: 50%"/>
+  <img src="https://github.com/sioaeko.png" width="100" style="border-radius: 50%"/>
   <h3>Your Name</h3>
-  <a href="https://github.com/yourusername">@yourusername</a>
+  <a href="https://github.com/sioaeko">@sioaeko</a>
   <br/><br/>
   <a href="https://twitter.com/yourusername">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -304,8 +304,8 @@ If you found this project helpful, please consider giving it a star!
 <div align="center">
   <br>
   <p>
-    <sub>Built with ❤️ by <a href="https://github.com/yourusername">Your Name</a></sub>
+    <sub>Built with ❤️ by <a href="https://github.com/sioaeko">Sioaeko</a></sub>
     <br>
-    <sub>Powered by ☕️ and code</sub>
+    <sub>Powered by ☕️ and bolt</sub>
   </p>
 </div>
