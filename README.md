@@ -314,6 +314,6 @@ If you found this project helpful, please consider giving it a star!
   <p>
     <sub>Built with ❤️ by <a href="https://github.com/sioaeko">Sioaeko</a></sub>
     <br>
-    <sub>Powered by ☕️ and bolt</sub>
+    <sub>Powered by ☕️ and Vercel</sub>
   </p>
 </div>
