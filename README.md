@@ -22,10 +22,10 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/github/package-json/v/yourusername/statuswatch?style=flat-square&color=2563eb&label=Version" alt="Version" /></a>
-  <a href="#"><img src="https://img.shields.io/github/license/yourusername/statuswatch?style=flat-square&color=2563eb" alt="License" /></a>
-  <a href="#"><img src="https://img.shields.io/github/stars/yourusername/statuswatch?style=flat-square&color=2563eb" alt="Stars" /></a>
-  <a href="#"><img src="https://img.shields.io/github/last-commit/yourusername/statuswatch?style=flat-square&color=2563eb" alt="Last Commit" /></a>
+  <a href="#"><img src="https://img.shields.io/github/package-json/v/sioaeko/statuswatch?style=flat-square&color=2563eb&label=Version" alt="Version" /></a>
+  <a href="#"><img src="https://img.shields.io/github/license/sioaeko/statuswatch?style=flat-square&color=2563eb" alt="License" /></a>
+  <a href="#"><img src="https://img.shields.io/github/stars/sioaeko/statuswatch?style=flat-square&color=2563eb" alt="Stars" /></a>
+  <a href="#"><img src="https://img.shields.io/github/last-commit/sioaeko/statuswatch?style=flat-square&color=2563eb" alt="Last Commit" /></a>
 </p>
 
 </div>
