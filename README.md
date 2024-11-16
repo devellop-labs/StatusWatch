@@ -3,7 +3,7 @@
 ![Pasted Graphic](https://github.com/user-attachments/assets/cd86bb7b-e586-4b19-a684-ca0809c577d9)
 
 
-<h1>🔍 StatusWatch</h1>
+<h1>StatusWatch</h1>
 
 <p align="center">
   <a href="README.md"><img src="https://img.shields.io/badge/EN-English-2563eb.svg?style=for-the-badge" alt="English"/></a>
