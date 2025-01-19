@@ -146,7 +146,7 @@
 
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/statuswatch.git
+git clone https://github.com/sioaeko/statuswatch.git
 
 # Navigate to directory
 cd statuswatch
